@@ -8,4 +8,4 @@ interface SimplePdfPreviewGeneratorInterface
      * @return boolean
      */
     public function generatePreviewImage($pdfFile, $saveTo);
-} 
+}

@@ -25,5 +25,4 @@ class SimplePdfPreviewImagickGenerator implements SimplePdfPreviewGeneratorInter
 
         return true;
     }
-
-} 
+}
